@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kerberoasting on Blowfish</title>
+    <link>http://localhost:1313/tags/kerberoasting/</link>
+    <description>Recent content in Kerberoasting on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Sat, 07 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/kerberoasting/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>404 Bank: Internal Penetration Test &amp; Domain Compromise</title>
+      <link>http://localhost:1313/posts/404-bank/</link>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/404-bank/</guid>
+      <description>Internal penetration test simulating an assumed-breach scenario resulting in full Active Directory domain compromise via AD CS ESC4.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
